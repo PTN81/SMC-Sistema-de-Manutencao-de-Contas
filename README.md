@@ -1,4 +1,4 @@
-# SMC - Sistema de-Manutenção de Contas
+# SMC - Sistema de Manutenção de Contas
 
 Este é um sistema de gerenciamento de contas bancárias em miniatura desenvolvido em **Linguagem C**. O projeto foi criado com o objetivo de estudar e aplicar conceitos avançados de manipulação de arquivos, estruturas de dados (`struct`) e persistência de dados em arquivos binários (`.dat`).
 
